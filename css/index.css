@@ -3987,7 +3987,7 @@ h1.page-title + .tag-cloud-list {
   text-align: center;
 }
 #pagination .page-number.current {
-  background: rgba(251,182,18,0.8);
+  background: rgba(251,182,18,0.9);
   color: var(--white);
 }
 #pagination .pagination-info {
@@ -4652,9 +4652,6 @@ h1.page-title + .tag-cloud-list {
   width: 6rem;
   -webkit-box-shadow: -1.8em 1.8em 0 0.2em #fff;
   box-shadow: -1.8em 1.8em 0 0.2em #fff;
-}
-.search span {
-  display: none;
 }
 .menus_item a {
   text-decoration: none !important;
