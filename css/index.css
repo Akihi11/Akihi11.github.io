@@ -1443,7 +1443,7 @@ canvas:not(#ribbon-canvas),
   }
 }
 :root {
-  --global-font-size: 17px;
+  --global-font-size: 18px;
   --global-bg: #fff;
   --font-color: #4c4948;
   --hr-border: #d2ebfd;
@@ -1765,8 +1765,8 @@ figure.highlight pre .javascript .function {
 }
 #article-container pre,
 #article-container code {
-  font-size: 16px;
-  font-family: Consolas_1, var(--global-font), "Microsoft YaHei", Menlo, "PingFang SC", "Microsoft JhengHei", sans-serif !important;
+  font-size: 18px;
+  font-family: consola001, consolas, ZhuZiAWan_light, "Microsoft YaHei", Menlo, "PingFang SC", "Microsoft JhengHei", sans-serif !important;
 }
 #article-container code {
   padding: 2px 4px;
@@ -1793,7 +1793,7 @@ figure.highlight pre .javascript .function {
 #article-container figure.highlight figcaption,
 #article-container figure.highlight .caption {
   padding: 6px 0 2px 14px;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1em;
 }
 #article-container figure.highlight figcaption a,
@@ -1839,7 +1839,7 @@ figure.highlight pre .javascript .function {
   height: 2.15em;
   background: var(--hltools-bg);
   color: var(--hltools-color);
-  font-size: 16px;
+  font-size: 18px;
 }
 #article-container .highlight-tools.closed ~ * {
   display: none;
@@ -1968,7 +1968,7 @@ figure.highlight pre .javascript .function {
   width: 100%;
   background: var(--hlexpand-bg);
   text-align: center;
-  font-size: 16px;
+  font-size: 18px;
   cursor: pointer;
 }
 #article-container .code-expand-btn i {
@@ -1994,7 +1994,7 @@ figure.highlight pre .javascript .function {
 #article-container .code-expand-btn:not(.expand-done) ~ table,
 #article-container .code-expand-btn:not(.expand-done) ~ pre {
   overflow: hidden;
-  height: 315px;
+  height: 325px;
 }
 @-moz-keyframes code-expand-key {
   0% {
