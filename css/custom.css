@@ -234,3 +234,10 @@ div#archive {
   display: none;
 }
 
+/* 滚动栏 */
+/* 滚动条样式 */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+
