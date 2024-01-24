@@ -1564,7 +1564,7 @@ table td {
   vertical-align: middle;
 }
 *::selection {
-  background: #f8df70;
+  background: #00c4b6;
   color: #f7f7f7;
 }
 button {
@@ -3104,7 +3104,7 @@ h1.page-title + .tag-cloud-list {
   color: #fbb612;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  background: #f8df70;
+  background: #00c4b6;
   color: #fff;
 }
 #aside-content .sticky_layout:only-child > :first-child {
