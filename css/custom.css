@@ -241,3 +241,10 @@ div#archive {
 }
 
 
+blockquote { /*引用*/
+  margin: 0 0 20px;
+  padding: 12px 15px;
+  border-left: 6px solid #03a5f7;
+  background-color: var(--blockquote-bg);
+  color: var(--blockquote-color);
+}
